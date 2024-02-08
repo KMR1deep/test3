@@ -1,5 +1,3 @@
-NAME       ROLLLNO
-Rythem     282142301601
 
 NAME-Sonia
 ROLLLNO-613
